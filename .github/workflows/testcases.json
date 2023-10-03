@@ -1,0 +1,11 @@
+{
+    "file_name": "IntroLab1.java",
+    "description": "This is the first lab. It will print out Hello World!",
+    "test_cases": [
+        {
+            "input": " ",
+            "expected_output": "Hello World!",
+            "format": "%s"
+        }],
+    "run" : true
+}
